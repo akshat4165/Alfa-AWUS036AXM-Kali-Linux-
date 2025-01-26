@@ -38,4 +38,6 @@ These commands will show the mediatek drivers which means you are now ready to u
 
 if you are facing any issues, open the query in github 
 
+Also if this help you, you can buy me a coffee - https://buymeacoffee.com/akshat4165
+
 Thank you!
